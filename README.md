@@ -1,6 +1,6 @@
-# Vue 3 + TypeScript + Vite + Tailwind CSS + Pinia + Pnpm + Eslint
+# Vue 3 项目开发模板
 
-###vue3 + typescript + vite + tailwind css + pinia + pnpm + eslint 开发模板
+### vue3 + typescript + vite + tailwind css + pinia + pnpm + eslint
 
 1. 克隆或下载项目模板
 
