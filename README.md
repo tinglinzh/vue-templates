@@ -1,5 +1,24 @@
-# Vue 3 + TypeScript + Vite
+# Vue 3 + TypeScript + Vite + Tailwind CSS + Pinia + Pnpm + Eslint
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+###vue3 + typescript + vite + tailwind css + pinia + pnpm + eslint 开发模板
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+1. 克隆或下载项目模板
+
+```bash
+git clone https://github.com/tinglinzh/vue-templates.git
+```
+
+2. 安装依赖
+
+```bash
+pnpm i
+```
+
+3. 运行项目
+
+```bash
+pnpm dev
+```
+
+4. Eslint 配置
+   项目采用eslint来进行代码检查和格式化，配置采用antfu的eslint-config配置
